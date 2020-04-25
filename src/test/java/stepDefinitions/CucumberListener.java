@@ -18,12 +18,7 @@ public class CucumberListener  {
        System.out.println("--------------------" + scenario.getName());
    }
 
-   @BeforeStep
-    public void Print(StepDefinedEvent stepDefinedEvent)
-   {
-       stepDefinedEvent.getStepDefinition();
-       System.out.println("-------------------------------------" + stepDefinedEvent.g);
-   }
+   
 
 
 
