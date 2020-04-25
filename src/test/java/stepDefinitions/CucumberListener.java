@@ -15,7 +15,7 @@ public class CucumberListener  {
    @Before
     public  void BeforeTest(Scenario scenario)
    {
-       System.out.println("--------------------" + scenario.getName());
+       System.out.println("" + scenario.getName());
    }
 
    
