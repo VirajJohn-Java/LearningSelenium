@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc19f612-c921-4fa1-ae0b-921ab8b03c4d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aR7s3NErJwNimiL4Of6JbGI9n6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/TestNGContainer" />
+      <recent name="$PROJECT_DIR$/src/test/java/TestMethords" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/virajjohn/Documents/IntelliJ/Learning/FrameworkDesign/src/test/java/TestNGContainer/cucumber.xml">
+    <configuration name="Runner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FrameworkDesign" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestMethords.Runner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmokeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FrameworkDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestMethords.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestMethords" />
+      <option name="MAIN_CLASS_NAME" value="TestMethords.SmokeTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmokeTest.InitializeUrl" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FrameworkDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestMethords.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestMethords" />
+      <option name="MAIN_CLASS_NAME" value="TestMethords.SmokeTest" />
+      <option name="METHOD_NAME" value="InitializeUrl" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/virajjohn/Documents/IntelliJ/Learning/FrameworkDesign/src/test/java/TestNGContainer/SmokeRunTestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FrameworkDesign" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/TestNGContainer/SmokeRunTestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/virajjohn/Documents/IntelliJ/Learning/FrameworkDesign/src/test/java/TestNGContainer/cucumber.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FrameworkDesign" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/TestNGContainer/cucumber.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/virajjohn/Documents/IntelliJ/Learning/FrameworkDesign/src/test/java/TestNGContainer/cucumber.xml" />
+        <item itemvalue="TestNG./Users/virajjohn/Documents/IntelliJ/Learning/FrameworkDesign/src/test/java/TestNGContainer/SmokeRunTestNG.xml" />
+        <item itemvalue="TestNG.Runner" />
+        <item itemvalue="TestNG.SmokeTest" />
+        <item itemvalue="TestNG.SmokeTest.InitializeUrl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc19f612-c921-4fa1-ae0b-921ab8b03c4d" name="Default Changelist" comment="" />
+      <created>1586686755536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586686755536</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586688261371">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="425" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1586688261371" />
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1587312293687">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1587312293687" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1587812404202">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587812404202" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1587812404201">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587812404201" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1587812404201">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587812404201" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1587812404202">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587812404202" />
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog" timestamp="1587802251805">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1587802251805" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1587649380687">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1587649380687" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1586688337210">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586688337210" />
+  </component>
+</project>
